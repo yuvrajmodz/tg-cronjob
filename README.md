@@ -6,7 +6,7 @@
 ---
 
 **Notice:**
-Before starting the bot, Please Replace With Your **API ID**, **API Hash**, **Bot Token** in app.py
+Please Replace With Your **API ID**, **API Hash** And **Bot Token** in app.py
 
 ---
 
