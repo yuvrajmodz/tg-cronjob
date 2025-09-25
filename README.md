@@ -5,8 +5,8 @@
 
 ---
 
-⚠️ **Notice:**  
-Before starting the bot, please open `bot.py` and enter your **API ID**, **API Hash**, and **Bot Token**.
+**Notice:**
+Before starting the bot, Please Replace Your **API ID**, **API Hash**, **Bot Token** in app.py
 
 ---
 
