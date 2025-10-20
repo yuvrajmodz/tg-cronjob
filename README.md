@@ -1,12 +1,12 @@
 # 𝗧𝗚 𝗖𝗥𝗢𝗡𝗝𝗢𝗕
 
 **Type:** Open Source  
-**Version:** 1.0.1
+**Version:** 1.0.2  
 
 ---
 
-**Notice:**
-Please Replace With Your **API ID**, **API Hash** And **Bot Token** in app.py
+⚠️ **Notice:**  
+Before starting the bot, please open `bot.py` and enter your **API ID**, **API Hash**, and **Bot Token**.
 
 ---
 
